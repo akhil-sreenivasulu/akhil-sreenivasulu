@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @akhil-sreenivasulu
+- 👀 I’m interested in Coding AI/ML projects in Python, Building Webapps in PHP, Java, MySQL, PostgreSQL, Mongo DB
+- 🌱 I’m currently working as Senior Software Developer
+- 💞️ I’m looking to collaborate on AI/ML Projects
+- 📫 How to reach me : email me at askakhilsree4@gmail.com
+- ⚡ Fun fact: Great Things take time!
